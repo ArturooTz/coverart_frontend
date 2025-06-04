@@ -1,0 +1,102 @@
+{
+  "games": [
+    {
+      "id": "GZLE01",
+      "title": "The Legend of Zelda Windwaker",
+      "release_date": "2003-3-24",
+      "console": "GameCube",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "genre": [
+        "action",
+        "adventure"
+      ],
+      "description": "Nintendo's thematic action-adventure sequel to Ocarina of Time takes the series back to its more cartoonish roots.",
+      "cover_url": "/images/asd.jpg"
+    },
+    {
+      "id": "GZ2E01",
+      "title": "The Legend of Zelda: Twilight Princess",
+      "release_date": "2006-12-11",
+      "console": "GameCube",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "genre": [
+        "action",
+        "adventure"
+      ],
+      "description": "Link, a young man raised as a wrangler in a small, rural village, is ordered by the mayor to attend the Hyrule Summit.",
+      "cover_url": "/images/asd.jpg"
+    },
+    {
+      "id": "GM8E01",
+      "title": "Metroid Prime",
+      "release_date": "2002-11-19",
+      "console": "GameCube",
+      "developer": "Retro Studios, Inc.",
+      "publisher": "Nintendo",
+      "genre": [
+        "action",
+        "shooter",
+        "first-person shooter"
+      ],
+      "description": "Everyone's favorite heroine, Samus Aran, is back! Packed to the gills with exploration, creative power-ups, and wicked enemies, Metroid Prime is a first-person adventure worthy of the Metroid stamp.",
+      "cover_url": "/images/asd.jpg"
+    },
+    {
+      "id": "G4BE08",
+      "title": "Resident Evil 4",
+      "release_date": "2005-1-11",
+      "console": "GameCube",
+      "developer": "Capcom Production Studio 4",
+      "publisher": "Capcom",
+      "genre": [
+        "action",
+        "adventure"
+      ],
+      "description": "The fourth installment of Capcom's pivotal \"Survival Horror\" series continues on Nintendo GameCube and PS2. The title takes place in 2004 some six years after the events that transpired in Resident Evil 2.",
+      "cover_url": "/images/asd.jpg"
+    },
+    {
+      "id": "GMSE01",
+      "title": "Super Mario Sunshine",
+      "release_date": "2002-8-27",
+      "console": "GameCube",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "genre": [
+        "action",
+        "adventure",
+        "3D platformer"
+      ],
+      "description": "Mario makes his debut on the Nintendo GameCube with Super Mario Sunshine. On a vacation away from the Mushroom Kingdom, Mario finds himself in a messy situation on the island of Delphino, where a Mario look alike has been causing all kinds of trouble.",
+      "cover_url": "/images/asd.jpg"
+    },
+    {
+      "id": "GALE01",
+      "title": "Super Smash Bros. Melee",
+      "release_date": "2001-12-2",
+      "console": "GameCube",
+      "developer": "HAL Laboratory",
+      "publisher": "Nintendo",
+      "genre": [
+        "fighting"
+      ],
+      "description": "Frantic multiplayer fighting returns with Super Smash Bros. Melee on the Nintendo GameCube. More than just a minor upgrade to the popular N64 game, the GameCube Smash Bros.",
+      "cover_url": "/images/asd.jpg"
+    },
+    {
+      "id": "GCFE9G",
+      "title": "Conflict: Desert Storm",
+      "release_date": "2003-4-22",
+      "console": "GameCube",
+      "developer": "Pivotal Games",
+      "publisher": "Gotham Games (Take-Two Interactive)",
+      "genre": [
+        "fighting"
+      ],
+      "description": "Conflict: Desert Storm lets you take charge of the best known and most feared special operations forces in the world: the elite British SAS or the US Delta Force squads. You're the best trained, best equipped and best organised Special Forces in the world.",
+      "cover_url": "/images/asd.jpg"
+    }
+  ]
+}
